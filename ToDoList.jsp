@@ -9,6 +9,8 @@
 </head>
 <body>
 
+
+
 <!-- HTML Form -->
 <!-- ----------------------------------------------- -->
 <!-- ----------------------------------------------- -->
@@ -18,6 +20,8 @@
 <form action="ToDoList.jsp" method="post">
 Enter your To Do Activity <input type="text" name= "myToDoList">
 <input type="submit" value= "Submit">
+<a href= "index.html" align= "right">Logout</a>
+
 
 </form>
 <br><br>
